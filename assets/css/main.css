@@ -1274,8 +1274,8 @@ input, select, textarea {
 		#header .logo {
       background-image: url('https://res.cloudinary.com/lepetitbelge/image/upload/v1555003668/profile-photo.jpg');
 			background-size: cover;
-      width: 10.5rem;
-			height: 10.5rem;
+      width: 13.5rem;
+			height: 13.5rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
@@ -1285,8 +1285,8 @@ input, select, textarea {
       background-image: url('https://res.cloudinary.com/lepetitbelge/image/upload/v1555059485/lewagon-logo.png');
       background-size: cover;
       position: absolute;
-      right: 0px;
-      top: 0px;
+      right: 0.25rem;
+      top: 0.25rem;
       width: 2.5rem;
       height: 2.5rem;
       border: solid 1px #ffffff;
@@ -1442,8 +1442,8 @@ input, select, textarea {
 			}
 
       #header .logo-lewagon {
-        width: 1.25rem;
-        height: 1.25rem
+        width: 1.75rem;
+        height: 1.75rem
       }
 
 				#header .logo .icon:before {
